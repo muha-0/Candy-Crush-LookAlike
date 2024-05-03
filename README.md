@@ -32,7 +32,7 @@ For the project documents refer to `/docs` folder
 ### Credits
 This project was made possible by the collaborative efforts of an amazing dedicated team. Special thanks to the following contributors:
 
-**Shady Ali (https://github.com/SHIXOOM)**
+**Shady Ali (Me)**
 
 **Ahmed Sameh (https://github.com/muha-0)**
 
@@ -40,4 +40,6 @@ This project was made possible by the collaborative efforts of an amazing dedica
 
 **Nour Hany**
 
-**Mahmoud Ashraf ((Me :D ))**
+**Mahmoud Ashraf (https://github.com/Mahmoud-Ameen)**
+
+**A big shoutout to Mahmoud Ashraf as he was the main brain and designer of this project, his Software Engineering skills are highly impressive and well dedicated**
