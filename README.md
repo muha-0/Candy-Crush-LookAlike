@@ -32,14 +32,13 @@ For the project documents refer to `/docs` folder
 ### Credits
 This project was made possible by the collaborative efforts of an amazing dedicated team. Special thanks to the following contributors:
 
-**Shady Ali (Me)**
+**Ahmed Sameh**
 
-**Ahmed Sameh (https://github.com/muha-0)**
+**Shady Ali**
 
-**Laila Khaled (https://github.com/laila078)**
+**Laila Khaled**
 
 **Nour Hany**
 
-**Mahmoud Ashraf (https://github.com/Mahmoud-Ameen)**
+**Mahmoud Ashraf**
 
-**A big shoutout to Mahmoud Ashraf as he was the main brain and designer of this project, his Software Engineering skills are highly impressive and well dedicated**
